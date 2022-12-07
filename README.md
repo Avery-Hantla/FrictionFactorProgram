@@ -11,7 +11,7 @@ FrictionFactorProgram is a program that when given inputs such as Reynolds numbe
 Download the FrictionFactorProgram file and open the FrictionFactorProgram.m file in Matlab. Click run and then when prompted to input the information that is prompted for. It will output the friction factor in the command window
 
 ## License
-A. Hantla, hereby disclaims all copyright interest in the program RunwayDetection (which detects edges of runways) written by A. Hantla
+A. Hantla, hereby disclaims all copyright interest in the program FrictionFactorProgram (which calculates the frition factor of a pipe) written by A. Hantla
 
 Signature of A. Hantla 5 December 2022
 A. Hantla, Owner
